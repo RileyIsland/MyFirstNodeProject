@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RileyIsland/MyFirstNodeProject/issues"
   },
-  "homepage": "https://github.com/RileyIsland/MyFirstNodeProject#readme"
+  "homepage": "https://github.com/RileyIsland/MyFirstNodeProject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
